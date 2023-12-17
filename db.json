@@ -1,0 +1,145 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "remo",
+      "thumbnail": "https://e0.pxfuel.com/wallpapers/752/916/desktop-wallpaper-remo-tamil-updated-fenpportnivel-s-ownd-remo-tamil-movie.jpg",
+      "url": "https://www.youtube.com/watch?v=BQE2hrC_gFo?autoplay=1"
+    },
+    {
+      "id": "3",
+      "name": "tech",
+      "allVideos": [
+        {
+          "id": "12",
+          "caption": "neela",
+          "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "caption": "neela nilave",
+      "thumbnail": "https://www.youtube.com/watch?v=nYEoxne_20Y",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "6",
+      "caption": "neela nilave",
+      "thumbnail": "https://www.youtube.com/watch?v=nYEoxne_20Y",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "25",
+      "caption": "neela nilave",
+      "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "informative",
+      "allVideos": []
+    },
+    {
+      "id": "4",
+      "name": "filim",
+      "allVideos": [
+        {
+          "id": "12",
+          "caption": "neela",
+          "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        },
+        {
+          "id": 1,
+          "caption": "remo",
+          "thumbnail": "https://e0.pxfuel.com/wallpapers/752/916/desktop-wallpaper-remo-tamil-updated-fenpportnivel-s-ownd-remo-tamil-movie.jpg",
+          "url": "https://www.youtube.com/watch?v=BQE2hrC_gFo?autoplay=1"
+        },
+        {
+          "id": "6",
+          "caption": "neela nilave",
+          "thumbnail": "https://www.youtube.com/watch?v=nYEoxne_20Y",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        },
+        {
+          "id": "5",
+          "caption": "neela nilave",
+          "thumbnail": "https://www.youtube.com/watch?v=nYEoxne_20Y",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "tech",
+      "allVideos": [
+        {
+          "id": "25",
+          "caption": "neela nilave",
+          "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardname": "rdx",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "Date": "08-12-2023"
+    },
+    {
+      "id": "9ef17337-dad4-4f4d-9fee-fd5b7726b67c",
+      "cardname": "neela",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "Date": "2023-12-13T07:35:30.721Z"
+    },
+    {
+      "id": "01a828f6-dc94-43f6-b9a6-1585ad309b32",
+      "cardname": "neela",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "Date": "2023-12-13T07:35:41.582Z"
+    },
+    {
+      "id": "ce6cca6e-387d-4289-be1f-16bd53f710d4",
+      "cardname": "remo",
+      "url": "https://www.youtube.com/watch?v=BQE2hrC_gFo?autoplay=1",
+      "Date": "2023-12-13T07:37:04.568Z"
+    },
+    {
+      "id": "b8edb9c7-3bbd-4163-a57d-d50084c8c221",
+      "cardname": "neela nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "Date": "2023-12-14T06:50:41.873Z"
+    },
+    {
+      "id": "d61f7f7a-60f1-4fc0-be69-99a74800fbeb",
+      "cardname": "remo",
+      "url": "https://www.youtube.com/watch?v=BQE2hrC_gFo?autoplay=1",
+      "Date": "2023-12-14T07:03:31.725Z"
+    },
+    {
+      "id": "89369248-fdd4-4d23-ab64-06752df69672",
+      "cardname": "remo",
+      "url": "https://www.youtube.com/watch?v=BQE2hrC_gFo?autoplay=1",
+      "Date": "2023-12-14T07:03:39.351Z"
+    },
+    {
+      "id": "b56ba228-563c-4ecc-8796-930fca06aa08",
+      "cardname": "neela",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "Date": "2023-12-14T07:03:47.872Z"
+    },
+    {
+      "id": "b37af713-4d0e-418e-9085-2f1da4b0e51a",
+      "cardname": "neela",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "Date": "2023-12-14T07:04:11.844Z"
+    }
+  ]
+}
